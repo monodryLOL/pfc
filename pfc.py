@@ -1,8 +1,6 @@
 from tkinter import *
 import random
 
-def p(azerty):
-    print(azerty)
 
 def f1():
     fenetre = Tk()
